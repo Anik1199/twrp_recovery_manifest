@@ -123,5 +123,5 @@
   <project path="vendor/omni" name="android_vendor_omni" remote="omnirom" revision="android-5.1" />
   
   <!-- Device -->
-  <project path="device/xiaomi/ido" name="ido-dev/android_device_xiaomi_ido-twrp" remote="github" revision="android-5.1" />
+  <project path="device/xiaomi/ido" name="TeamWin/android_device_xiaomi_ido" remote="github" revision="android-5.1" />
 </manifest>
